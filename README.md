@@ -17,4 +17,3 @@
 1. Different organizations can use this to extract use full information from the image and store it. Individual can use it for saving their time and effort for typing.
 2. It will ease the burden of document analysis and understanding them. It will reduce man work and revolutionlize the system by automating the OCR(OPTICAL CHARACTER RECOGNIZATION) mathod fot text extraction.
 3. ![Screen Shot 2022-05-28 at 7 14 47 PM](https://user-images.githubusercontent.com/49092540/170823248-ca29b995-5178-46c0-9bfd-18ce5fce8743.png)
-4. 
